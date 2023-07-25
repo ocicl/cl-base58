@@ -1,0 +1,9 @@
+* cl-base58
+
+An implementation of base58 for Common Lisp
+
+|---------+-----------------------------------------------|
+| source  | git:https://github.com/eudoxia0/cl-base58.git |
+| commit  | f446835                                       |
+| systems | cl-base58                                     |
+|---------+-----------------------------------------------|
